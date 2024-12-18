@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://swapnil213.netlify.app/](https://swapnil213.netlify.app/)
 
--  👨‍💻 All of my Content is available at [https://www.instagram.com/fiction_with_kartavya](https://www.instagram.com/fiction_with_kartavya/)]
+-  👨‍💻 All of my Content is available at [https://www.instagram.com/fiction_with_kartavya](https://www.instagram.com/fiction_with_kartavya/)
 
 - 📫 How to reach me **thawaleswapnil213@gmail.com**
 
