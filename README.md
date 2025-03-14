@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnil213&show_icons=true&locale=en" alt="swapnil213" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Swapnil213)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnil213&" alt="swapnil213" /></p>
